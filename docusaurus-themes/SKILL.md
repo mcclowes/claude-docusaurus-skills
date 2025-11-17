@@ -1,5 +1,5 @@
 ---
-name: docusaurus-swizzle
+name: docusaurus-themes
 # IMPORTANT: Keep description on ONE line for Claude Code compatibility
 # prettier-ignore
 description: Use when swizzling Docusaurus theme components and editing theme elements

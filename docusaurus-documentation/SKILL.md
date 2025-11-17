@@ -1,5 +1,5 @@
 ---
-name: docusaurus-docs
+name: docusaurus-documentation
 # IMPORTANT: Keep description on ONE line for Claude Code compatibility
 # prettier-ignore
 description: Use when looking up information from the latest Docusaurus documentation at https://docusaurus.io/docs

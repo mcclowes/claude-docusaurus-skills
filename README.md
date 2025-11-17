@@ -4,21 +4,17 @@ A collection of Claude Code skills for working with Docusaurus projects and tech
 
 ## Available Skills
 
-### google-style-guide
-A comprehensive skill for writing and reviewing technical documentation following Google's documentation style guide. Includes guidelines for:
-- Active voice and present tense
-- Clear, concise headings
-- Proper formatting and lists
-- Inclusive language
-- Code and UI elements
+- **docusaurus-config** - Use when working with `docusaurus.config.js/ts` files to validate or modify Docusaurus configuration. Helps with required fields, URL formats, plugins, themes, and custom fields.
 
-### docusaurus-swizzle
-A skill for customizing Docusaurus theme components through swizzling. Provides guidance on:
-- Safe vs unsafe swizzling (wrap vs eject)
-- Interactive component selection
-- Common components to customize (Footer, Navbar, DocItem, etc.)
-- Best practices for theme customization
-- Command reference and troubleshooting
+- **docusaurus-documentation** - Use when looking up information from the latest Docusaurus documentation at https://docusaurus.io/docs. Provides guidance on configuration, APIs, markdown features, and best practices.
+
+- **docusaurus-migration** - Use when migrating Docusaurus projects from v2 to v3. Covers MDX v1 to v3 migration, dependency updates, React 18 compatibility, and breaking changes.
+
+- **docusaurus-plugins** - Use when creating Docusaurus plugins (remark, rehype, theme, content, lifecycle) to extend markdown, modify HTML, or add custom functionality. Supports all five plugin types with detailed guides.
+
+- **docusaurus-themes** - Use when swizzling Docusaurus theme components and editing theme elements. Provides guidance on safe wrapping vs. unsafe ejecting, component selection, and customization patterns.
+
+- **google-style-guide** - Use when writing or reviewing technical documentation to follow Google's documentation style guide. Includes guidelines for voice, tense, formatting, inclusive language, and clarity principles.
 
 ## Installation
 

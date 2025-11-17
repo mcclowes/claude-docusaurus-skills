@@ -1,5 +1,5 @@
 ---
-name: docusaurus-plugin-guide
+name: docusaurus-plugins
 # IMPORTANT: Keep description on ONE line for Claude Code compatibility
 # prettier-ignore
 description: Use when creating Docusaurus plugins (remark, rehype, theme, content, lifecycle) to extend markdown, modify HTML, or add custom functionality
