@@ -24,6 +24,16 @@ A collection of Claude Code skills for working with Docusaurus projects and tech
 - **Git**
 - **Claude Code** CLI
 
+### Install as a Plugin
+
+You can install all skills at once as a Claude Code plugin using the marketplace file:
+
+```bash
+claude mcp add-json docusaurus-skills '{"type":"stdio","command":"npx","args":["-y","claude-skills-cli","serve","https://raw.githubusercontent.com/mcclowes/claude-docusaurus-skills/main/.claude-plugin/marketplace.json"]}'
+```
+
+This registers all docusaurus skills as a single plugin that Claude Code can access.
+
 ### Install with OpenSkills
 
 [OpenSkills](https://github.com/numman-ali/openskills) is a CLI tool that makes it easy to install and manage Claude Code skills.

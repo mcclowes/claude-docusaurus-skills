@@ -1,0 +1,27 @@
+{
+  "name": "docusaurus-skills",
+  "owner": {
+    "name": "mcclowes",
+    "email": "mcclowes@gmail.com"
+  },
+  "metadata": {
+    "description": "Skills for working with Docusaurus documentation sites",
+    "version": "1.0.0"
+  },
+  "plugins": [
+    {
+      "name": "docusaurus-skills",
+      "description": "Collection of skills for building, configuring, and maintaining Docusaurus documentation sites including configuration, theming, plugins, migration, and documentation lookup",
+      "source": "./",
+      "strict": false,
+      "skills": [
+        "./docusaurus-config",
+        "./docusaurus-documentation",
+        "./docusaurus-migration",
+        "./docusaurus-plugins",
+        "./docusaurus-themes",
+        "./google-style-guide"
+      ]
+    }
+  ]
+}
