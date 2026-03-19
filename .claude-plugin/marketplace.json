@@ -15,12 +15,12 @@
       "source": "./",
       "strict": false,
       "skills": [
-        "./docusaurus-config",
-        "./docusaurus-documentation",
-        "./docusaurus-migration",
-        "./docusaurus-plugins",
-        "./docusaurus-themes",
-        "./google-style-guide"
+        "./skills/docusaurus-config",
+        "./skills/docusaurus-documentation",
+        "./skills/docusaurus-migration",
+        "./skills/docusaurus-plugins",
+        "./skills/docusaurus-themes",
+        "./skills/google-style-guide"
       ]
     }
   ]

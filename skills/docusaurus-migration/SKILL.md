@@ -1,8 +1,10 @@
 ---
 name: docusaurus-v2-to-v3-migration
-# IMPORTANT: Keep description on ONE line for Claude Code compatibility
-# prettier-ignore
-description: Use when migrating Docusaurus projects from v2 to v3
+description: Use when migrating Docusaurus projects from v2 to v3. Triggers on tasks involving MDX v1 to v3 migration, Docusaurus dependency updates, React 18 compatibility, or v2/v3 breaking changes.
+license: MIT
+metadata:
+  author: mcclowes
+  version: "1.0.0"
 ---
 
 # Docusaurus V2 To V3 Migration

@@ -1,8 +1,10 @@
 ---
 name: docusaurus-plugins
-# IMPORTANT: Keep description on ONE line for Claude Code compatibility
-# prettier-ignore
-description: Use when creating Docusaurus plugins (remark, rehype, theme, content, lifecycle) to extend markdown, modify HTML, or add custom functionality
+description: Use when creating Docusaurus plugins (remark, rehype, theme, content, lifecycle) to extend markdown, modify HTML, or add custom functionality. Triggers on tasks involving custom remark/rehype plugins, content plugins, theme plugins, or Docusaurus lifecycle hooks.
+license: MIT
+metadata:
+  author: mcclowes
+  version: "1.0.0"
 ---
 
 # Docusaurus Plugin Guide

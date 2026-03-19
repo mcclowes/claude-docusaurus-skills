@@ -1,8 +1,10 @@
 ---
 name: docusaurus-config
-# IMPORTANT: Keep description on ONE line for Claude Code compatibility
-# prettier-ignore
-description: Use when working with docusaurus.config.js/ts files to validate or modify Docusaurus configuration
+description: Use when working with docusaurus.config.js/ts files to validate or modify Docusaurus configuration. Triggers on tasks involving docusaurus.config.js, docusaurus.config.ts, site configuration, URL formats, presets, or theme config.
+license: MIT
+metadata:
+  author: mcclowes
+  version: "1.0.0"
 ---
 
 # Docusaurus Config

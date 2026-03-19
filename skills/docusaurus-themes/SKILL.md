@@ -1,8 +1,10 @@
 ---
 name: docusaurus-themes
-# IMPORTANT: Keep description on ONE line for Claude Code compatibility
-# prettier-ignore
-description: Use when swizzling Docusaurus theme components and editing theme elements
+description: Use when swizzling Docusaurus theme components and editing theme elements. Triggers on tasks involving Docusaurus swizzling, theme component customization, navbar, footer, sidebar, or layout modifications.
+license: MIT
+metadata:
+  author: mcclowes
+  version: "1.0.0"
 ---
 
 # Docusaurus Swizzle

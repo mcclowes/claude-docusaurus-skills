@@ -1,8 +1,10 @@
 ---
 name: docusaurus-documentation
-# IMPORTANT: Keep description on ONE line for Claude Code compatibility
-# prettier-ignore
-description: Use when looking up information from the latest Docusaurus documentation at https://docusaurus.io/docs
+description: Use when looking up information from the latest Docusaurus documentation at https://docusaurus.io/docs. Triggers on tasks involving Docusaurus APIs, markdown features, configuration options, or best practices.
+license: MIT
+metadata:
+  author: mcclowes
+  version: "1.0.0"
 ---
 
 # Docusaurus Docs

@@ -1,8 +1,10 @@
 ---
 name: google-style-guide
-# IMPORTANT: Keep description on ONE line for Claude Code compatibility
-# prettier-ignore
-description: Use when writing or reviewing technical documentation to follow Google's documentation style guide - https://developers.google.com/style
+description: Use when writing or reviewing technical documentation to follow Google's documentation style guide. Triggers on tasks involving technical writing, doc review, style consistency, inclusive language, or formatting standards.
+license: MIT
+metadata:
+  author: mcclowes
+  version: "1.0.0"
 ---
 
 # Google Style Guide
